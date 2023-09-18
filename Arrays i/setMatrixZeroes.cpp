@@ -26,6 +26,9 @@ public:
             {
                 matrix[h][v[k]]=0;
             }
-         }
+         }    //humne ek array bnaya phir jaha jaha p 0 value uske index usme store krwa diye 
+         //    phir humne uss array  vo value nikaali aur matrix ki hr uss position ko 0 kra jaha p vo value thi 
+         // odd index ko constant rkh kr row 0 kri aur even ko const. rkhkr column 0 kra 
+                             
     }
 };
